@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageSpeedReader", "PageSpeedReader\PageSpeedReader.csproj", "{B0B4C397-7426-4BA7-8B23-F72793D5185B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0B4C397-7426-4BA7-8B23-F72793D5185B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0B4C397-7426-4BA7-8B23-F72793D5185B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0B4C397-7426-4BA7-8B23-F72793D5185B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0B4C397-7426-4BA7-8B23-F72793D5185B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33B6C7A2-9223-4FBB-94B5-8C56214E1491}
+	EndGlobalSection
+EndGlobal
